@@ -1,1 +1,9 @@
 theme: icarus
+
+# Menus
+menu:
+  Home: .
+  Archives: archives
+  Categories: categories
+  Tags: tags
+  About: about
