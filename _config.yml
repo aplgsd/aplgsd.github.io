@@ -100,4 +100,4 @@ theme: icarus
 deploy:
   type: git
   repository: https://github.com/aplgsd/aplgsd.github.io.git
-  branch: develop
+  branch: master
