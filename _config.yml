@@ -98,4 +98,6 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/aplgsd/aplgsd.github.io
+  branch: develop
